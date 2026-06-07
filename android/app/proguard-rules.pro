@@ -1,0 +1,3 @@
+-keep class com.chioma.agent.** { *; }
+-keepclassmembers class com.chioma.agent.MainActivity { *; }
+-keep class org.json.** { *; }
